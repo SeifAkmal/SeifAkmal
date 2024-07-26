@@ -6,10 +6,11 @@
 - 📃 My Resume [https://drive.google.com/file/d/1kBr7f0Cu7pTNw2EEv76xNuCOK_iNGYft/view?usp=sharing](https://drive.google.com/file/d/1kBr7f0Cu7pTNw2EEv76xNuCOK_iNGYft/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/seif-akmal-103a38244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif-akmal-103a38244" height="30" width="40" /></a>
-<a href="https://fb.com/torino.bf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="torino.bf1" height="30" width="40" /></a>
-<a href="https://instagram.com/seif_akmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seif_akmal" height="30" width="40" /></a>
+<p align="center" dir="auto">
+	<a href="mailto:meshoronaldo62@gmail.com"><img src="https://camo.githubusercontent.com/eaac252d0e3c7c287b34bd1db467a8953d908fa88ab4d11deae8aee89ff145c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334541343333352e7376673f7374796c653d706c6173746963266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+	<a href="https://github.com/Muhammad-VII"><img src="https://camo.githubusercontent.com/87c82381e50ddc78de91c6f4535bd8a3bf8e02ba6954f07e07d6c751503b385a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333138313731372e7376673f7374796c653d706c6173746963266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+	<a href="https://www.linkedin.com/in/ngxakmal" rel="nofollow"><img src="https://camo.githubusercontent.com/e9936ff00928028fc610bb2b3ed5a3e41a1d082e62436bd0f8ec2f2c7efba609/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333041363643322e7376673f7374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+	<a href="https://www.facebook.com/Muzi699" rel="nofollow"><img src="https://camo.githubusercontent.com/dd22cc1e950554657df1c42367597bd77530707db69a178b9613cbb257789107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333138373746322e7376673f7374796c653d706c6173746963266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
