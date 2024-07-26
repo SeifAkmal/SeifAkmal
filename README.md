@@ -14,7 +14,10 @@
 🌱 I’m currently learning **tailwind css, AWS**
 
 ⚡ Fun fact **The pyramids weren’t built by slaves.....👽**
+
 <br/>
+<br/>
+
  📃 My resume [https://drive.google.com/file/d/1kBr7f0Cu7pTNw2EEv76xNuCOK_iNGYft/view?usp=sharing](https://drive.google.com/file/d/1kBr7f0Cu7pTNw2EEv76xNuCOK_iNGYft/view?usp=sharing)
 
  </div>
