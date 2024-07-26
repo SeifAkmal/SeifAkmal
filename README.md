@@ -5,6 +5,7 @@
 
 - 📃 My Resume [https://drive.google.com/file/d/1kBr7f0Cu7pTNw2EEv76xNuCOK_iNGYft/view?usp=sharing](https://drive.google.com/file/d/1kBr7f0Cu7pTNw2EEv76xNuCOK_iNGYft/view?usp=sharing)
 
+<img src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/seif-akmal-103a38244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif-akmal-103a38244" height="30" width="40" /></a>
