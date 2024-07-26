@@ -9,10 +9,12 @@
 <br/>
 
 <div align="center">
+
  
 🌱 I’m currently learning **tailwind css, AWS**
 
 ⚡ Fun fact **The pyramids weren’t built by slaves.....👽**
+ 📃 My resume** <a href="https://drive.google.com/file/d/1kBr7f0Cu7pTNw2EEv76xNuCOK_iNGYft/view?usp=drive_link"></a>
 
  </div>
  
