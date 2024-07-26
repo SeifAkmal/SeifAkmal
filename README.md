@@ -8,9 +8,9 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
  
- 🌱 I’m currently learning **tailwind css, Docker, AWS**
+🌱 I’m currently learning **tailwind css, AWS**
 
 ⚡ Fun fact **The pyramids weren’t built by slaves.....👽**
 
