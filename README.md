@@ -6,7 +6,7 @@
 
 <h3 align="center">🔗  Frontend Engineer  🔗</h3>
 
-<br/>
+
 
 <div align="center">
 
