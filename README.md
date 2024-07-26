@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
  🌱 I’m currently learning **tailwind css, Docker, AWS**
 
 ⚡ Fun fact **The pyramids weren’t built by slaves.....👽**
