@@ -23,11 +23,11 @@
 <div align="center""> 
     
   <a href="mailto:seifakmal5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="width: 8%;" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="width: 10%;" />
   </a>
     <br/>
   <a href="https://www.linkedin.com/in/seif-akmal-103a38244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width: 13%;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width: 14%;"/>
   </a>
     <br/>
   <a href="https://github.com/SeifAkmal" target="_blank">
