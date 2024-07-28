@@ -23,21 +23,20 @@
 <div align="center"> 
     
 <div style="width: 100px;">
+    
   <a href="mailto:seifakmal5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="width: 100%;" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="width: 50%;" />
   </a>
-</div>
-<div style="width: 200px;">
+    
   <a href="https://www.linkedin.com/in/seif-akmal-103a38244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width: 100%;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="width: 75%;"/>
   </a>
-</div>
-<div style="width: 300px;">
+    
   <a href="https://github.com/SeifAkmal" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" style="width: 100%;"/> 
-  </a>
+  </a> 
 </div>
-    
+
 </div>
 
  <hr/>
