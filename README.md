@@ -20,9 +20,9 @@
 <br/>
  </div>
  
-<div align="center"> 
+<div align="center" style="width: 10px;"> 
     
-<div style="width: 50px;">
+
     
   <a href="mailto:seifakmal5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="width: 50%;" />
@@ -35,7 +35,6 @@
   <a href="https://github.com/SeifAkmal" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" style="width: 100%;"/> 
   </a> 
-</div>
 
 </div>
 
