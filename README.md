@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,sass,typescript" />
+<!--     <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,sass,typescript" /> -->
     </br>
 <!--     <img src="https://skillicons.dev/icons?i=git,angular,nodejs,aws,github,figma,tailwind,vscode,xd" /> -->
     <img src="https://lordicon.com/icons/wired/flat?i=63-home" />
