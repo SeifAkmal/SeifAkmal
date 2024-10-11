@@ -44,7 +44,7 @@
 <!--     <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,sass,typescript" /> -->
     </br>
 <!--     <img src="https://skillicons.dev/icons?i=git,angular,nodejs,aws,github,figma,tailwind,vscode,xd" /> -->
-    <img src="https://lordicon.com/icons/wired/flat?i=63-home" />
+    <img src="https://www.flaticon.com/free-icon/shape_12205639?term=angular&page=1&position=5&origin=search&related_id=12205639" />
 </div>
 
 <br/>
