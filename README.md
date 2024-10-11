@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,sass,typescript" />
-    
+    </br>
     <img src="https://skillicons.dev/icons?i=git,angular,nodejs,aws,github,figma,tailwind,vscode,xd" />
 </div>
 
