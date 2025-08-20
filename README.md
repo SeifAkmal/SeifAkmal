@@ -16,7 +16,7 @@
 ⚡ Fun fact **The pyramids weren’t built by slaves.....👽**
 <br/>
 <br/>
- 📃 My resume〈 https://drive.google.com/file/d/1H6aDJm1OdasENUJjBLx2ZcRbQLJezLkK/view?usp=drive_link 〉
+ 📃 My resume〈 https://drive.google.com/file/d/1v38VBb9k_HKm9iCm6C9PN0oay10WSNZV/view?usp=drive_link 〉
 <br/>
  </div>
  
