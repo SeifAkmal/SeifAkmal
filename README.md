@@ -11,7 +11,7 @@
 <div align="center">
 
  
-🌱 I’m currently learning **tailwind css, AWS**
+🌱 I’m currently learning **tailwind css**
 
 ⚡ Fun fact **The pyramids weren’t built by slaves.....👽**
 <br/>
