@@ -22,7 +22,7 @@
  
 <div align="center""> 
     
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seifakmal5@gmail.com" target="_blank" rel="noopener">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seifakmal5@gmail.com" target="_blank" >
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="width: 10%;" />
    </a>
     <br/>
