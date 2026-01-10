@@ -10,8 +10,7 @@
 
 <div align="center">
 
- 
-🌱 I’m currently learning **tailwind css**
+
 
 ⚡ Turtles can survive months without food... and here I am starving after two hours.... 🐢😆
 <br/>
