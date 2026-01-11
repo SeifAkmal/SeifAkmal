@@ -22,7 +22,7 @@
   </a>
   <br/>
   <a href="https://github.com/SeifAkmal">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </div>
 
