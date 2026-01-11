@@ -22,7 +22,8 @@
   </a>
   <br/>
   <a href="https://github.com/SeifAkmal">
-    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
   </a>
 </div>
 
