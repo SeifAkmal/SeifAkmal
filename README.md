@@ -31,9 +31,8 @@
 <h2 align="center">🧠 About Me</h2>
 
 <div align="center">
-Frontend Developer specialized in Angular.  
-I build scalable, clean UI applications with a strong focus on structure, state management, and maintainability.  
-Currently seeking a junior frontend role where I can grow within a real team and real production code.
+Frontend Developer specialized in Angular, building responsive and scalable web applications.
+Experienced in working with real APIs, modern Angular patterns, and clean, maintainable UI-focused code.
 </div>
 
 <hr/>
