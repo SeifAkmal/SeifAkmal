@@ -15,7 +15,7 @@
 ⚡ Turtles can survive months without food... and here I am starving after two hours.... 🐢😆
 <br/>
 <br/>
- 📃 My resume〈  https://drive.google.com/file/d/16hIA65TLR4MbD70Pz5699zLwMY3jF7AR/view?usp=sharing  〉  
+ 📃 My resume〈  https://drive.google.com/file/d/11dxyHo-AnKFa6hvFDSiWPqpAf3MI46Bz/view?usp=drive_link  〉
 <br/>
  </div>
  
