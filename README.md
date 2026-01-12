@@ -1,13 +1,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Seif+Akmal;" />
 </h1>
-  📄 <a href="https://drive.google.com/file/d/11dxyHo-AnKFa6hvFDSiWPqpAf3MI46Bz/view">View My Resume</a>
+  
 <h3 align="center">Frontend Developer (Angular)</h3>
 
 <div align="center">
+  📄 <a href="https://drive.google.com/file/d/11dxyHo-AnKFa6hvFDSiWPqpAf3MI46Bz/view">View My Resume</a>
+    <br/><br/>
   ⚡ I spent more time naming variables than actually writing the logic 🤯⌨️
-  <br/><br/>
-
 </div>
 
 <br/>
