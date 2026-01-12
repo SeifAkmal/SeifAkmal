@@ -46,5 +46,5 @@ Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-
 
 <div align="center">
   <img src="https://cursor.sh/favicon.ico" width="40" alt="Cursor AI" />
-  <img src="[https://antigravity.google/img/antigravity.jpg](https://antigravity.google/)" width="40" alt="Google Antigravity (April Fools)" />
+  <img src="[[https://antigravity.google/img/antigravity.jpg](https://antigravity.google/)](https://antigravity.google/img/antigravity.jpg)" width="40" alt="Google Antigravity (April Fools)" />
 </div>
