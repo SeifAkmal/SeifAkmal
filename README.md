@@ -5,8 +5,8 @@
 <h3 align="center">Frontend Developer (Angular)</h3>
 
 <div align="center">
-  📄 <a href="https://drive.google.com/file/d/11dxyHo-AnKFa6hvFDSiWPqpAf3MI46Bz/view">View My Resume</a>
-    <br/><br/>
+ 
+   
   ⚡ I spent more time naming variables than actually writing the logic 🤯⌨️
 </div>
 
@@ -23,8 +23,9 @@
   <br/>
   <a href="https://github.com/SeifAkmal">
    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
+ <br/><br/>
   </a>
+   📄 <a href="https://drive.google.com/file/d/11dxyHo-AnKFa6hvFDSiWPqpAf3MI46Bz/view">View My Resume</a>
 </div>
 
 <hr/>
