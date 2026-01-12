@@ -55,6 +55,7 @@ Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-
 <h2 align="center">📊 GitHub Overview</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifAkmal&layout=compact&langs_count=6&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeifAkmal&show_icons=true&hide_title=true&hide_rank=true" />
 </div>
+
 
