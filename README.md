@@ -50,10 +50,8 @@ Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-
 
 <hr/>
 
-<div align="center">
-  <h2>🐍 GitHub Activity</h2>
-  <!-- <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifAkmal" />
+<h2 align="center">📊 GitHub Overview</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifAkmal&layout=compact" />
 </div>
