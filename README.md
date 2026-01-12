@@ -46,16 +46,5 @@ Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-
 
 <div align="center">
   <img src="https://cursor.sh/favicon.ico" width="40" alt="Cursor AI" />
+  <img src="https://www.google.com/antigravity/images/antigravity.jpg" width="40" alt="Google Antigravity IDE" />
 </div>
-
-<hr/>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Overview</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeifAkmal&show_icons=true&hide_title=true&hide_rank=true" />
-</div>
-
-
