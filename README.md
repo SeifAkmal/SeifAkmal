@@ -38,13 +38,12 @@ Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-
 <h2 align="center">⚒️ Languages, Frameworks & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,typescript,javascript" /><br/>
-  <img src="https://skillicons.dev/icons?i=angular,git,github,nodejs,figma,xd,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,typescript,javascript"  width="40"/><br/>
+  <img src="https://skillicons.dev/icons?i=angular,git,github,nodejs,figma,xd,tailwind,vscode"  width="40"/>
 </div>
 
 <p align="center"><strong>AI-assisted development</strong></p>
 
 <div align="center">
   <img src="https://cursor.sh/favicon.ico" width="40" alt="Cursor AI" />
-  <img src="[[https://antigravity.google/img/antigravity.jpg](https://antigravity.google/)](https://antigravity.google/img/antigravity.jpg)" width="40" alt="Google Antigravity (April Fools)" />
 </div>
