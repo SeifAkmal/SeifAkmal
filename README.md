@@ -27,6 +27,8 @@ Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-
   </a>
 </div>
 
+<hr/>
+
 <p align="center">
 📄 <a href="https://drive.google.com/file/d/11dxyHo-AnKFa6hvFDSiWPqpAf3MI46Bz/view">View My Resume</a>
 </p>
@@ -50,5 +52,8 @@ Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-
 
 <div align="center">
   <h2>🐍 GitHub Activity</h2>
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <!-- <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifAkmal" />
+
 </div>
