@@ -42,7 +42,7 @@ Experienced in working with real APIs, modern Angular patterns, and clean, maint
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,typescript,javascript" /><br/>
-  <img src="https://skillicons.dev/icons?i=angular,git,github,nodejs,figma,xd,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=angular,git,github,nodejs,figma,xd ,cursor,tailwind,vscode" />
 </div>
 
 <hr/>
