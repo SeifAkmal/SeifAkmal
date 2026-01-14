@@ -11,21 +11,23 @@ Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-
 </p>
 <br/>
 <div align="center">
-  <a href="https://github.com/SeifAkmal">
-  <img src="https://img.shields.io/badge/Portfolio-1F1B2E?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD"/>
-</a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seifakmal5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1F1B2E?style=for-the-badge&logo=gmail&logoColor=C4B5FD" />
-  </a>
+  </a> 
+  
+  <br/>
+  
   <a href="https://www.linkedin.com/in/seif-akmal-103a38244/">
     <img src="https://img.shields.io/badge/LinkedIn-1F1B2E?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
   </a>
+  
+  <br/>
+  
+  <a href="https://github.com/SeifAkmal">
+  <img src="https://img.shields.io/badge/Portfolio-1F1B2E?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD"/>
+</a>
 
 </div>
-
-
-
-
 </div>
 <br/>
 <p align="center">
