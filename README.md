@@ -3,8 +3,7 @@
 </h1>
 <h2 align="center">🧠 About Me</h2>
 <p align="center">
-Frontend Developer specialized in <strong>Angular</strong>, building responsive and scalable web applications.<br/>
-Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-focused code.
+I’m a Frontend Developer specializing in Angular I enjoy turning designs and ideas into clean, responsive web interfaces. I focus on writing maintainable code, working with real APIs, and building user-friendly applications that actually make sense to use.
 </p>
 <p align="center">
 ⚡ I spend more time naming variables than actually writing the logic 🤯⌨️
