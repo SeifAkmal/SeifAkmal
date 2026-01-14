@@ -18,8 +18,9 @@ Experienced with real APIs, modern Angular patterns, and clean, maintainable UI-
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 <a href="https://github.com/SeifAkmal">
-  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-1F1B2E?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD"/>
 </a>
+
 
 </div>
 <br/>
