@@ -22,7 +22,7 @@ I’m a Frontend Developer specializing in Angular I enjoy turning designs and i
   
   <br/>
   
-  <a href="https://github.com/SeifAkmal">
+  <a href="https://seifakmal-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-1F1B2E?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD"/>
 </a>
 
