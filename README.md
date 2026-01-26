@@ -30,7 +30,7 @@ I’m a Frontend Developer specializing in Angular I enjoy turning designs and i
 </div>
 <br/>
 <p align="center">
-📄 <a href="https://drive.google.com/file/d/19g58amd4DuP7kvLW72S_jXzZrKTxPxSR/view?usp=sharing">View My Resume</a> 
+📄 <a href="https://drive.google.com/file/d/1iUz8x68h_iK0gJvBgd60R8uytJtEEX5y/view?usp=sharing">View My Resume</a> 
 </p>
 <hr/>
 <h2 align="center">⚒️ Languages, Frameworks & Tools</h2>
