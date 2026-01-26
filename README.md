@@ -36,6 +36,6 @@ I’m a Frontend Developer specializing in Angular I enjoy turning designs and i
 <h2 align="center">⚒️ Languages, Frameworks & Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,typescript,javascript"/><br/>
-  <img src="https://skillicons.dev/icons?i=angular,git,github,nodejs,figma,xd,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=postman,angular,git,github,nodejs,figma,xd,tailwind"/>
 </div>
 
