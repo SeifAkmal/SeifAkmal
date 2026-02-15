@@ -10,24 +10,22 @@ I’m a Frontend Developer specializing in Angular I enjoy turning designs and i
 </p>
 <br/>
 <div align="center">
-<a href="mailto:seif.akmal.dev@outlook.com">
-  <img src="https://cdn.simpleicons.org/microsoftoutlook/C4B5FD" height="40" />
-</a>
-
-
-  <br/>
   
-<a href="https://www.linkedin.com/in/seif-akmal-103a38244/">
-  <img src="https://cdn.simpleicons.org/linkedin/C4B5FD" height="40" />
-</a>
-
-
+  <a href="mailto:seif.akmal.dev@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-1F1B2E?style=for-the-badge&logo=microsoft-outlook&logoColor=C4B5FD" /> 
+  </a> 
   
+  <br/> 
+  
+  <a href="https://www.linkedin.com/in/seif-akmal-103a38244/">
+  <img src="https://img.shields.io/badge/LinkedIn-1F1B2E?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/> 
+  </a>
+
   <br/>
   
   <a href="https://seifakmal-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-1F1B2E?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD"/>
-</a>
+  </a>
 
 </div>
 </div>
