@@ -10,9 +10,10 @@ I’m a Frontend Developer specializing in Angular I enjoy turning designs and i
 </p>
 <br/>
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seifakmal5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1F1B2E?style=for-the-badge&logo=gmail&logoColor=C4B5FD" />
-  </a> 
+<a href="mailto:seif.akmal.dev@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-1F1B2E?style=for-the-badge&logo=microsoft-outlook&logoColor=C4B5FD" />
+</a>
+
   
   <br/>
   
