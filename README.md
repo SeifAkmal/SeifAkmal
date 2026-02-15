@@ -11,14 +11,16 @@ I’m a Frontend Developer specializing in Angular I enjoy turning designs and i
 <br/>
 <div align="center">
 <a href="mailto:seif.akmal.dev@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-C4B5FD?style=for-the-badge&logo=microsoft-outlook&logoColor=1F1B2E" />
+  <img src="https://cdn.simpleicons.org/microsoftoutlook/C4B5FD" height="40" />
 </a>
+
 
   <br/>
   
 <a href="https://www.linkedin.com/in/seif-akmal-103a38244/">
-  <img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=1F1B2E"/>
+  <img src="https://cdn.simpleicons.org/linkedin/C4B5FD" height="40" />
 </a>
+
 
   
   <br/>
