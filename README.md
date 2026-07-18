@@ -59,7 +59,7 @@ Building. Learning. Improving.
 
 **React • TypeScript • Vite • Tailwind CSS**
 
-A multi-step bundle builder with dynamic pricing, product configuration, and state management.
+A configurable security bundle builder featuring dynamic pricing and state management.
 
 🔗 <a href="https://github.com/SeifAkmal/react-bundle-builder">Repository</a>
 
