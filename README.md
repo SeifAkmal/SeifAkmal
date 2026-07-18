@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Seif+Akmal;" />
 </h1>
 
-<h2 align="center">🚀 Frontend Engineer</h2>
+<h2 align="center">Frontend Engineer</h2>
 
 <p align="center">
-Frontend Engineer focused on React, Next.js, and Angular. I enjoy building responsive interfaces, integrating APIs, and writing code that's easy to understand, maintain, and improve.
+Frontend Engineer focused on React, Next.js, and Angular. Interested in component-driven development, frontend architecture, and building fast, maintainable web applications.
 </p>
 
 <p align="center">
-Every project is an opportunity to learn a better way to build software.
+Building. Learning. Improving.
 </p>
 
 <br/>
