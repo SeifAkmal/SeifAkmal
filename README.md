@@ -50,16 +50,18 @@ Every project is an opportunity to learn a better way to build software.
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="33%" valign="top">
 
 ### 🔐 Security Bundle Builder
 
-React • TypeScript • Vite • Tailwind CSS
+**React • TypeScript • Vite • Tailwind CSS**
 
-Multi-step bundle builder with dynamic pricing and state management.
+A multi-step bundle builder with dynamic pricing, product configuration, and state management.
+
+🔗 <a href="https://github.com/SeifAkmal/react-bundle-builder">Repository</a>
 
 </td>
 
@@ -67,9 +69,11 @@ Multi-step bundle builder with dynamic pricing and state management.
 
 ### 🛍️ Minto Store
 
-Angular • TypeScript • REST API
+**Angular • TypeScript • REST API**
 
-Responsive e-commerce application with product catalog and shopping cart.
+A responsive e-commerce application featuring product browsing, shopping cart, and API integration.
+
+🔗 <a href="https://github.com/SeifAkmal/Major-Minto-Store">Repository</a>
 
 </td>
 
@@ -77,9 +81,11 @@ Responsive e-commerce application with product catalog and shopping cart.
 
 ### 🌐 Personal Portfolio
 
-Angular • TypeScript • Scss
+**Angular • TypeScript • SCSS**
 
-Personal portfolio showcasing my projects, skills, and experience.
+My personal portfolio website showcasing projects, technical skills, and experience.
+
+🔗 <a href="https://github.com/SeifAkmal/Portfolio">Repository</a>
 
 </td>
 
