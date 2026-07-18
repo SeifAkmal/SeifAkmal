@@ -20,12 +20,12 @@ Every project is an opportunity to learn a better way to build software.
 <img src="https://img.shields.io/badge/Outlook-1F1B2E?style=for-the-badge&logo=microsoft-outlook&logoColor=C4B5FD"/>
 </a>
 
-<a href="https://www.linkedin.com/in/seif-akmal-103a38244/">
-<img src="https://img.shields.io/badge/LinkedIn-1F1B2E?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
-</a>
-
 <a href="https://seifakmal-portfolio.pages.dev/">
 <img src="https://img.shields.io/badge/Portfolio-1F1B2E?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD"/>
+</a>
+
+<a href="https://www.linkedin.com/in/seif-akmal-103a38244/">
+<img src="https://img.shields.io/badge/LinkedIn-1F1B2E?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
 </a>
 
 </div>
