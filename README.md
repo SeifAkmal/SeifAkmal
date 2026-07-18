@@ -77,7 +77,7 @@ Responsive e-commerce application with product catalog and shopping cart.
 
 ### 🌐 Personal Portfolio
 
-React • Vite • Tailwind CSS
+Angular • TypeScript • Scss
 
 Personal portfolio showcasing my projects, skills, and experience.
 
