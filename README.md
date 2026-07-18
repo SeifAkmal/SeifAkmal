@@ -23,7 +23,7 @@ I’m a Frontend Developer specializing in Angular I enjoy turning designs and i
 
   <br/>
   
-  <a href="https://seifakmal-portfolio.netlify.app/">
+  <a href="https://seifakmal-portfolio.pages.dev/">
   <img src="https://img.shields.io/badge/Portfolio-1F1B2E?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD"/>
   </a>
 
@@ -36,7 +36,8 @@ I’m a Frontend Developer specializing in Angular I enjoy turning designs and i
 <hr/>
 <h2 align="center">⚒️ Languages, Frameworks & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,typescript,javascript"/><br/>
-  <img src="https://skillicons.dev/icons?i=angular,git,github,nodejs,postman,figma,xd,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,redux,nodejs,npm"/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode"/>
 </div>
 
